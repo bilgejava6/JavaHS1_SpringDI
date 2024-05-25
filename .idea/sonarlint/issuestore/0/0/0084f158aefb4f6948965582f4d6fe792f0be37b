@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èƒ·äşÿÿÿÿ8Øú÷ú1
+b
+java:S2259"EA "NullPointerException" could be thrown; "printer" is nullable here.(Ïûñ8ÅÏ³÷ú1
+x
+java:S1450"VRemove the "printer" field and declare it as a local variable in the relevant methods.(˜¯¨·üÿÿÿÿ8éÌ¡÷ú1
+y
+java:S1450"WRemove the "provider" field and declare it as a local variable in the relevant methods.(ó¹ÈÒÿÿÿÿÿ8»Ò¢÷ú1
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ÈØ©™úÿÿÿÿ8Úú÷ú1
+E	java:S108")Either remove or fill this block of code.(®ËúÃ8Üú÷ú1
+j
+java:S6201"HReplace this instanceof check and cast with 'instanceof Printer printer'(ËØÜĞøÿÿÿÿ8ÊÏ³÷ú1
